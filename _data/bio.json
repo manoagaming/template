@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Manoa Gaming",
+    "label": "Organization",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "jeremy21@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "website": "https://manoagaming.github.io",
+    "summary": "We are a student group creating an Manoa Gaming",
     "location": {
-      "address": "",
+      "address": "2500 Campus Rd",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -16,43 +16,19 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "discord",
+        "username": "manoagaming",
+        "url": "http://discordapp.com/manoagaming"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "meteor",
+        "uh manoa",
+        "gaming"
       ]
     }
   ],
